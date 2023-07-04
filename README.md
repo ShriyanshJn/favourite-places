@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app uses Google Maps API to get dynamic map.
+This app uses SQLite as database.
 
 A few resources to get you started if this is your first Flutter project:
 
